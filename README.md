@@ -4,6 +4,10 @@
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences as a Frontend Developer.
 
+🌐 Live Demo
+
+Check out the live version of my portfolio click here - https://suredivya.netlify.app/
+
 🛠️ Technologies Used
 
 HTML5 for structuring content
@@ -24,10 +28,6 @@ assets/ — Contains images, icons, and other media
 - Contact form to get in touch
 - SEO-friendly structure
 - Cross-browser compatibility
-
-🌐 Live Demo
-
-Check out the live version of my portfolio click here - https://suredivya.netlify.app/
 
 📬 Contact
 
