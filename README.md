@@ -27,7 +27,7 @@ assets/ — Contains images, icons, and other media
 
 🌐 Live Demo
 
-Check out the live version of my portfolio <a href="suredivya.netlify.app">here!</a>
+Check out the live version of my portfolio click here - https://suredivya.netlify.app/
 
 📬 Contact
 
