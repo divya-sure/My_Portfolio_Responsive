@@ -33,8 +33,8 @@ Check out the live version of my portfolio here!
 
 Feel free to connect with me:
 
-Email: suredivya6@gmail.com
-LinkedIn: https://www.linkedin.com/in/sure-venkata-naga-divya-b9109b244/
-GitHub: https://github.com/divya-sure
+Email: suredivya6@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sure-venkata-naga-divya-b9109b244/  
+GitHub: https://github.com/divya-sure  
 
 ⭐ Don't forget to star this repo if you like my work!
